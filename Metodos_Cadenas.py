@@ -5,3 +5,7 @@ print("El nombre es: " + str(nombreUsusario.count("w"))) #Devuelve el numero de 
 
 edad = input("Introduce la edad: ")
 
+print("Tu edad es: ", edad)
+
+print("¡¡¡Que tengas un buen dia!!!")
+
