@@ -7,5 +7,5 @@ edad = input("Introduce la edad: ")
 
 print("Tu edad es: ", edad)
 
-print("¡¡¡Que tengas un buen dia!!!")
+print("¡¡¡Que tengas un buen dia y buena semana!!!")
 
